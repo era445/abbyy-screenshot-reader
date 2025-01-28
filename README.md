@@ -1,0 +1,1 @@
+# abbyy-screenshot-reader
